@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b35"/><stop offset="1" stop-color="#07121e"/></linearGradient><linearGradient id="line"><stop stop-color="#57e3cd"/><stop offset="1" stop-color="#7c9bff"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#233449" stroke-width=".6"/></pattern></defs>
+<rect width="1200" height="340" rx="20" fill="url(#bg)"/><rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+<path d="M52 56H108" stroke="#57e3cd" stroke-width="4"/><text x="124" y="62" fill="#8fa5bb" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3">AI · RESEARCH · ENGINEERING</text>
+<text x="52" y="144" fill="#f3f7ff" font-family="Segoe UI,Arial,sans-serif" font-size="55" font-weight="700">Mortaza Nalbandi</text>
+<text x="54" y="189" fill="#bdd0e4" font-family="Segoe UI,Arial,sans-serif" font-size="23">Exploring intelligence. Building with purpose.</text>
+<text x="54" y="240" fill="#57e3cd" font-family="Segoe UI,Arial,sans-serif" font-size="17">Reinforcement Learning / Computer Vision / LLM Applications</text>
+<text x="54" y="286" fill="#91a5bc" font-family="Segoe UI,Arial,sans-serif" font-size="16">MSc Artificial Intelligence · Shahid Beheshti University</text>
+<g stroke="url(#line)" stroke-width="1.6" opacity=".65"><path d="M866 91L975 66L1083 105L1130 202L1049 268L941 238L866 91L1049 268L975 66L1130 202L941 238L1083 105L866 91" fill="none"/></g>
+<g fill="#57e3cd"><circle cx="866" cy="91" r="6"/><circle cx="975" cy="66" r="7"/><circle cx="1083" cy="105" r="6"/><circle cx="1130" cy="202" r="7"/><circle cx="1049" cy="268" r="6"/><circle cx="941" cy="238" r="7"/></g></svg>
