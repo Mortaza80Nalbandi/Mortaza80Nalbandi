@@ -24,66 +24,97 @@ My experience also spans **Unity game development** and **backend projects in Go
 
 ## Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<p><sub>01 / ROBOTICS</sub></p>
-<h3><a href="https://github.com/Mortaza80Nalbandi/webots_Navigation_DQN">Robot Navigation with DQN</a></h3>
-<p>Learning to navigate obstacles and reach a target in Webots.</p>
-<p><sub>Python · DQN · Webots</sub></p>
-</td>
-<td width="50%" valign="top">
-<p><sub>02 / GAME AI</sub></p>
-<h3><a href="https://github.com/Mortaza80Nalbandi/Agent_Reinforcement_Surival_Game">Learning to Survive</a></h3>
-<p>My BSc thesis: a Q-learning-based agent in a 2D survival game.</p>
-<p><sub>C# · Unity · Reinforcement Learning</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><sub>03 / GENERATIVE AI</sub></p>
-<h3><a href="https://github.com/Mortaza80Nalbandi/In-Context-Learning-and-RAG">In-Context Learning &amp; RAG</a></h3>
-<p>Few-shot prompting and conversational retrieval with embeddings and MMR.</p>
-<p><sub>LangChain · ChromaDB · RAG</sub></p>
-</td>
-<td width="50%" valign="top">
-<p><sub>04 / NATURAL LANGUAGE</sub></p>
-<h3><a href="https://github.com/Mortaza80Nalbandi/Naive-Bayes-TFIDF-and-Random-Forest-NLP">Classical NLP</a></h3>
-<p>Naive Bayes spam detection from scratch and Random Forest news classification.</p>
-<p><sub>TF-IDF · Naive Bayes · Random Forest</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><sub>05 / COMPUTER VISION</sub></p>
-<h3><a href="https://github.com/Mortaza80Nalbandi/LowLightImage-enhancment">Low-Light Image Enhancement</a></h3>
-<p>Research-paper implementation for an image-processing course.</p>
-<p><sub>Python · Image Processing</sub></p>
-</td>
-<td width="50%" valign="top">
-<p><sub>06 / BACKEND</sub></p>
-<h3><a href="https://github.com/Mortaza80Nalbandi/go-backend-projects">Go Backend Projects</a></h3>
-<p>REST APIs, database integration, task management, and real-time communication.</p>
-<p><sub>Go · SQL · WebSockets</sub></p>
-</td>
-</tr>
-</table>
+<sub>01 / ROBOTICS</sub>
+
+### [Robot Navigation with DQN ↗](https://github.com/Mortaza80Nalbandi/webots_Navigation_DQN)
+
+Learning to navigate obstacles and reach a target in Webots.
+
+<sub>Python · DQN · Webots</sub>
+
+<br />
+
+<sub>02 / GAME AI</sub>
+
+### [Learning to Survive ↗](https://github.com/Mortaza80Nalbandi/Agent_Reinforcement_Surival_Game)
+
+My BSc thesis: a Q-learning-based agent in a 2D survival game.
+
+<sub>C# · Unity · Reinforcement Learning</sub>
+
+<br />
+
+<sub>03 / GENERATIVE AI</sub>
+
+### [In-Context Learning & RAG ↗](https://github.com/Mortaza80Nalbandi/In-Context-Learning-and-RAG)
+
+Few-shot prompting and conversational retrieval with embeddings and MMR.
+
+<sub>LangChain · ChromaDB · RAG</sub>
+
+<br />
+
+<sub>04 / NATURAL LANGUAGE</sub>
+
+### [Classical NLP ↗](https://github.com/Mortaza80Nalbandi/Naive-Bayes-TFIDF-and-Random-Forest-NLP)
+
+Naive Bayes spam detection from scratch and Random Forest news classification.
+
+<sub>TF-IDF · Naive Bayes · Random Forest</sub>
+
+<br />
+
+<sub>05 / COMPUTER VISION</sub>
+
+### [Low-Light Image Enhancement ↗](https://github.com/Mortaza80Nalbandi/LowLightImage-enhancment)
+
+Research-paper implementation for an image-processing course.
+
+<sub>Python · Image Processing</sub>
+
+<br />
+
+<sub>06 / BACKEND</sub>
+
+### [Go Backend Projects ↗](https://github.com/Mortaza80Nalbandi/go-backend-projects)
+
+REST APIs, database integration, task management, and real-time communication.
+
+<sub>Go · SQL · WebSockets</sub>
+
+<br />
 
 ## Research explorations
 
-| Area | Project |
-| :--- | :--- |
-| **Interpretable robot control** | [Neural Fuzzy Actor-Critic](https://github.com/Mortaza80Nalbandi/RL_AC_FUZZY) — paper implementation combining fuzzy systems with reinforcement learning. |
-| **Efficient neural networks** | [Model Compression](https://github.com/Mortaza80Nalbandi/Model_Compression) — compression for MLP-based classification. |
-| **Deep learning regularization** | [Synaptic Scaling](https://github.com/Mortaza80Nalbandi/Synaptic_Scaling) — implementation of a research paper. |
-| **Visual learning** | [CNN Projects](https://github.com/Mortaza80Nalbandi/CNN-Projects) — U-Net image colorization, reconstruction, and classification. |
+**[Neural Fuzzy Actor-Critic ↗](https://github.com/Mortaza80Nalbandi/RL_AC_FUZZY)**  
+Interpretable robot control through fuzzy systems and reinforcement learning.
+
+**[Model Compression ↗](https://github.com/Mortaza80Nalbandi/Model_Compression)**  
+Exploring more efficient neural networks for MLP-based classification.
+
+**[Synaptic Scaling ↗](https://github.com/Mortaza80Nalbandi/Synaptic_Scaling)**  
+Research-paper implementation exploring deep learning regularization.
+
+**[CNN Projects ↗](https://github.com/Mortaza80Nalbandi/CNN-Projects)**  
+Visual learning through U-Net colorization, reconstruction, and classification.
+
+<br />
 
 ## Academic background
 
-| Degree | University | GPA |
-| :--- | :--- | :--- |
-| **MSc · Artificial Intelligence**<br>2023–Present | Shahid Beheshti University | **18.13 / 20** |
-| **BSc · Computer Engineering**<br>2019–2023 | K. N. Toosi University of Technology | **18.52 / 20** |
+<sub>2023 — PRESENT · SHAHID BEHESHTI UNIVERSITY</sub>
+
+### MSc in Artificial Intelligence
+
+GPA **18.13 / 20**
+
+<br />
+
+<sub>2019 — 2023 · K. N. TOOSI UNIVERSITY OF TECHNOLOGY</sub>
+
+### BSc in Computer Engineering
+
+GPA **18.52 / 20**
 
 <details>
 <summary><b>Selected MSc coursework</b></summary>
@@ -92,13 +123,29 @@ Machine Learning · Deep Reinforcement Learning · Computer Vision · Digital Im
 
 </details>
 
+<br />
+
 ## Experience
 
-- **ML Engineer and Data Scientist**, Shahid Beheshti University — July–August 2026
-- **Freelance Telegram Bot Developer** — July 2026–Present
-- **Unity Developer**, Funtory Game Studio and Publisher
-- **Software Developer and ML Intern**, Institute for Research in Fundamental Sciences (IPM) — June–September 2023
-- **Teaching Assistant**, Shahid Beheshti University and K. N. Toosi University of Technology — courses including Deep Reinforcement Learning, Pattern Recognition, Deep Learning and Neural Networks, Linear Algebra, and Programming
+**ML Engineer & Data Scientist** · Shahid Beheshti University  
+<sub>JULY — AUGUST 2026</sub>
+
+**Freelance Telegram Bot Developer**  
+<sub>JULY 2026 — PRESENT</sub>
+
+**Unity Developer** · Funtory Game Studio and Publisher
+
+**Software Developer & ML Intern** · IPM  
+<sub>JUNE — SEPTEMBER 2023</sub>
+
+<details>
+<summary><b>Teaching experience</b></summary>
+
+Teaching Assistant at **Shahid Beheshti University** and **K. N. Toosi University of Technology**, supporting courses in Deep Reinforcement Learning, Pattern Recognition, Deep Learning and Neural Networks, Linear Algebra, and Programming.
+
+</details>
+
+<br />
 
 ## Publication
 
